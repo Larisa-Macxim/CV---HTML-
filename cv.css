@@ -1,0 +1,65 @@
+body {
+  background-color: rgba(236, 228, 210, 0.808);
+}
+p {
+  text-indent: 27px;
+}
+.div-parinte {
+  display: flex;
+}
+.primul-copil {
+  width: 25%;
+}
+.al-doilea-copil {
+  width: 75%;
+}
+img {
+  width: 250px;
+  padding: 20px;
+}
+h1 {
+  color: rgb(0, 217, 255);
+}
+.span-1 {
+  font-style: italic;
+  font-weight: 800;
+}
+#span-2 {
+  font-style: italic;
+  font-weight: 850;
+}
+h2 {
+  color: rgb(0, 217, 255);
+  padding: 0px 0px 0px 18px;
+}
+.p-1 {
+  font-weight: 700;
+}
+.p-2 {
+  font-weight: 700;
+}
+h3 {
+  padding: 0px 0px 0px 19px;
+  font-style: italic;
+}
+#ul-1 {
+  line-height: 35px;
+}
+#div-1 {
+  display: flex;
+}
+#div-p {
+  width: 50%;
+}
+.p-3 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+.p-4 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+#div-s {
+  width: 50%;
+  line-height: 25px;
+}
